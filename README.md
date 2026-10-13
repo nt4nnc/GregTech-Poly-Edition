@@ -4,3 +4,5 @@ If you're using any other launcher, import the pack manually or with an import z
 
 Latest Prism Launcher Build:
 https://github.com/nt4nnc/Solifactory/releases/download/1.1.3p/1.1.3.zip
+
+License: https://github.com/nt4nnc/Solifactory/blob/main/LICENSE
