@@ -3,6 +3,6 @@ To check the most recent build, go check the "Releases" page on your toolbar on 
 If you're using any other launcher, import the pack manually or with an import zip function if it has one.
 
 Latest Prism Launcher Build:
-https://github.com/nt4nnc/Solifactory/releases/download/1.1.3p/1.1.3.zip
+https://github.com/nt4nnc/Solifactory/releases/download/1.1.4p/1.1.4.zip
 
 License: https://github.com/nt4nnc/Solifactory/blob/main/LICENSE
