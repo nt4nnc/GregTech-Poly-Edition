@@ -1,8 +1,8 @@
-To check the most recent build, go check the "Releases" page on your toolbar on the right of the screen, and drag n' drop it into your Prism launcher / MultiMC window. 
+If you're using prism launcher, try Drag n' Dropping the link into the launcher.
 
-If you're using any other launcher, import the pack manually or with an import zip function if it has one.
+Prism Launcher: https://github.com/nt4nnc/GregTech-Poly-Edition/releases/download/1.3p/1.3.zip
+Curseforge: https://github.com/nt4nnc/GregTech-Poly-Edition/releases/download/1.3c/1.3.zip
+Modrinth: https://github.com/nt4nnc/GregTech-Poly-Edition/releases/download/1.3m/1.3.zip
 
-Latest Prism Launcher Build:
-https://github.com/nt4nnc/Solifactory/releases/download/1.1.4p/1.1.4.zip
-
-License: https://github.com/nt4nnc/Solifactory/blob/main/LICENSE
+Curseforge Page: https://www.curseforge.com/minecraft/modpacks/gtpe
+Discord: https://discord.gg/eGKNzStYej
